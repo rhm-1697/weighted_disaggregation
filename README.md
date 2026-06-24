@@ -69,7 +69,6 @@ import matplotlib.pyplot as plt
 - Population density raster — derived from ONS Census data for Greater Manchester
 - Administrative boundaries — ONS Open Geography Portal
 
-> **Note:** Input data files are not included in this repository. The administrative boundary data is available from the ONS Open Geography Portal. The tweet dataset was provided for coursework purposes and cannot be redistributed.
 
 ---
 
